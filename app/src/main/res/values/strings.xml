@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">ArrayAdapterSample</string>
+	<string name="title_activity_adapter_item">AdapterItemActivity</string>
+</resources>
